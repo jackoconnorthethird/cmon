@@ -72,7 +72,7 @@ html {
   }
   
   .navbar-brand {
-    color:rgb(19, 18, 18);
+    color: aquamarine;
     font-size: 1.4rem;
     font-weight: bold;
   }
@@ -91,7 +91,7 @@ html {
   }
   
   .tm-nav-link {
-    color: black;
+    color: aquamarine;
   }
   
   .tm-navbar.scroll .tm-nav-link {
